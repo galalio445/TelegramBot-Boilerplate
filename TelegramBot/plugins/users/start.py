@@ -15,8 +15,8 @@ START_BUTTON = [
     ],
     [
         InlineKeyboardButton(
-            "🔭 Original Repo",
-            url="https://github.com/sanjit-sinha/TelegramBot-Boilerplate",
+            "🔭 Group",
+            url="https://t.me/+FNGN52wmxwE3ZjU0",
         )
     ],
 ]
